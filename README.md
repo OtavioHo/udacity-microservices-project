@@ -40,3 +40,10 @@ You can find a detailed [project rubric, here](https://review.udacity.com/#!/rub
 * Setup and Configure Kubernetes locally
 * Create Flask app in Container
 * Run via kubectl
+
+
+## Files in the repository.
+
+The only added file in the repository was the `.circleci/config.yml` to configure CircleCI.
+The Dockerfile and the script files were changed to meet the specification.
+Output of the logs of the docker run and the kubernetes run are available in the `output_txt_files` folder.
